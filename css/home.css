@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+/* 开启GPU渲染 */
 .cube { 
    -webkit-transform: translateZ(0); 
    -moz-transform: translateZ(0); 
